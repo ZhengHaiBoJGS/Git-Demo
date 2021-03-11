@@ -6,5 +6,9 @@ public class MainTest {
         System.out.println("哈哈哈");
         System.out.println("holle");
         System.out.println("哈哈哈");
+        System.out.println("holle");
+        System.out.println("哈哈哈");
+        System.out.println("holle");
+        System.out.println("哈哈哈");
     }
 }
